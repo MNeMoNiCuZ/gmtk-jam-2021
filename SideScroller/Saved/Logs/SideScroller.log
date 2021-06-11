@@ -1411,3 +1411,48 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.11-00.12.16:046][182]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
 [2021.06.11-00.13.48:819][619]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
 [2021.06.11-00.14.04:495][ 47]SourceControl: Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2021.06.11-00.18.18:342][542]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.06.11-00.18.18:564][542]LogSavePackage: Moving '../../../../../Github/gmtk-jam-2021/SideScroller/Saved/SideScrollerExampleMap_Auto1BD9A6ABE4335E4FE9A5162801BAF3F67.tmp' to '../../../../../Github/gmtk-jam-2021/SideScroller/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto1.umap'
+[2021.06.11-00.18.18:608][542]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.300
+[2021.06.11-00.18.18:608][542]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.300
+[2021.06.11-00.22.07:953][142]LogWindows: Warning: CreateProc failed: Access is denied. (0x00000005)
+[2021.06.11-00.22.07:953][142]LogWindows: Warning: URL: C:/Users/MNeMiC/AppData/Local/GitHubDesktop/app-2.8.3/resources/app/git/cmd version
+[2021.06.11-00.22.15:961][579]LogSlate: Window 'Source Control Login' being destroyed
+[2021.06.11-00.22.27:200][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.06.11-00.22.27:218][933]LogSavePackage: Moving '../../../../../Github/gmtk-jam-2021/SideScroller/Saved/SideScrollerExampleMap8E1EA5FA44B97C504BF055BAB47E8ABB.tmp' to '../../../../../Github/gmtk-jam-2021/SideScroller/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2021.06.11-00.22.27:900][933]LogSavePackage: Moving '../../../../../Github/gmtk-jam-2021/SideScroller/Saved/SideScrollerExampleMap_BuiltDataA2DA396640A253F87BADDC93DF52875E.tmp' to '../../../../../Github/gmtk-jam-2021/SideScroller/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2021.06.11-00.22.27:972][933]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.11-00.22.27:973][933]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.SideScrollerExampleMap_BuiltData
+[2021.06.11-00.22.27:973][933]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2021.06.11-00.22.35:405][649]Cmd: SELECT NONE
+[2021.06.11-00.22.54:942][ 56]BlueprintLog: New page: Compile BP_TestPrint
+[2021.06.11-00.22.54:995][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2021.06.11-00.22.55:570][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Blueprints/BP_TestPrint" FILE="../../../../../Github/gmtk-jam-2021/SideScroller/Content/SideScrollerBP/Blueprints/BP_TestPrint.uasset" SILENT=true
+[2021.06.11-00.22.55:575][ 96]LogSavePackage: Moving '../../../../../Github/gmtk-jam-2021/SideScroller/Saved/BP_TestPrint26F31F5145B59F7D410F0394E9EE4D0F.tmp' to '../../../../../Github/gmtk-jam-2021/SideScroller/Content/SideScrollerBP/Blueprints/BP_TestPrint.uasset'
+[2021.06.11-00.22.55:588][ 96]AssetCheck: New page: Asset Save: BP_TestPrint
+[2021.06.11-00.22.55:588][ 96]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/BP_TestPrint.BP_TestPrint
+[2021.06.11-00.23.01:193][313]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2021.06.11-00.23.01:996][327]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2021.06.11-00.23.12:408][872]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.06.11-00.23.12:715][872]LogBlueprintUserMessages: [SideScrollerCharacter_78] I AM HAT
+[2021.06.11-00.23.12:765][872]LogBlueprintUserMessages: [SideScrollerCharacter_C_3] I AM HAT
+[2021.06.11-00.23.12:766][872]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] I AM HAT
+[2021.06.11-00.23.12:816][872]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2021.06.11-00.23.12:819][872]LogBlueprintUserMessages: [SideScrollerCharacter_78] I AM HAT
+[2021.06.11-00.23.12:821][872]LogBlueprintUserMessages: [SideScrollerCharacter_C_3] I AM HAT
+[2021.06.11-00.23.12:823][872]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] I AM HAT
+[2021.06.11-00.23.12:825][872]LogBlueprintUserMessages: [SideScrollerCharacter_C_4] I AM HAT
+[2021.06.11-00.23.12:831][872]LogBlueprintUserMessages: [SideScrollerCharacter_78] I AM HAT
+[2021.06.11-00.23.12:834][872]LogBlueprintUserMessages: [SideScrollerCharacter_C_0] I AM HAT
+[2021.06.11-00.23.12:836][872]LogBlueprintUserMessages: [SideScrollerCharacter_C_4] I AM HAT
+[2021.06.11-00.23.12:934][872]LogSavePackage: Moving '../../../../../Github/gmtk-jam-2021/SideScroller/Saved/SideScrollerCharacter6BBE954B4F10FBDC903AC6AA96436A30.tmp' to '../../../../../Github/gmtk-jam-2021/SideScroller/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2021.06.11-00.23.12:954][872]AssetCheck: New page: Asset Save: SideScrollerCharacter
+[2021.06.11-00.23.12:954][872]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2021.06.11-00.23.13:596][900]LogSavePackage: Moving '../../../../../Github/gmtk-jam-2021/SideScroller/Saved/SideScrollerCharacter033C73354D7DBF749ADC8797192A7AD3.tmp' to '../../../../../Github/gmtk-jam-2021/SideScroller/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2021.06.11-00.23.13:608][900]AssetCheck: New page: Asset Save: SideScrollerCharacter
+[2021.06.11-00.23.13:608][900]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2021.06.11-00.23.20:147][201]BlueprintLog: New page: Compile SideScrollerCharacter
+[2021.06.11-00.23.20:315][201]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2021.06.11-00.23.20:989][230]LogSavePackage: Moving '../../../../../Github/gmtk-jam-2021/SideScroller/Saved/SideScrollerCharacter35CBE2EF482076EC2A1BA6A8385CE97A.tmp' to '../../../../../Github/gmtk-jam-2021/SideScroller/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2021.06.11-00.23.21:001][230]AssetCheck: New page: Asset Save: SideScrollerCharacter
+[2021.06.11-00.23.21:001][230]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
